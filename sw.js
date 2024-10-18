@@ -1,15 +1,15 @@
 const staticCacheName = 'site-static-v1';
 
 const assets = [
-    '/',
-    '/index.html',
-    '/js/app.js',
-    '/css/style.css',
-    '/images/icons/icon-144x144.png',
-    '/images/icons/icon-192x192.png',
-    '/images/icons/icon-72x72.png',
-    '/images/icons/icon-96x96.png',
-    '/images/icons/icon-128x128.png'
+    '.',
+    'index.html',
+    'js/index.js',
+    'css/style.css',
+    'images/icons/icon-144x144.png',
+    'images/icons/icon-192x192.png',
+    'images/icons/icon-72x72.png',
+    'images/icons/icon-96x96.png',
+    'images/icons/icon-128x128.png'
 ];  
 
 
